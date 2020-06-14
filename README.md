@@ -1,7 +1,5 @@
 # SwiftUseful
 
-**Useful files for speeding up development, reusability and clean code!**
-
 ### Extensions
 - Data+Extension
 - UIImageView+Extension
